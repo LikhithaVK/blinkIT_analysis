@@ -18,18 +18,31 @@ dashboard → Pre-built Excel dashboard for visualization
 The dataset in the Raw data sheet contains the following fields:
 
 Column	Description
+
 Sr.NO	---------Serial number of the record
+
 Item Identifier--------	Unique product code
+
 Item Type----------	Category of item (e.g., Frozen Foods, Soft Drinks)
+
 Item Fat Content----------	Fat classification (e.g., Regular, Low Fat)
+
 Item Weight----------	Weight of the item
+
 Item Visibility----------	Share of visibility in the store
+
 Sales	----------Total sales value of the item
+
 Rating	----------Customer rating (scale of 1–5)
+
 Outlet Identifier----------	Unique store code
+
 Outlet Establishment Year	----------Year when the outlet was established
+
 Outlet Location Type	----------Location category (Tier 1, 2, 3)
+
 Outlet Size	----------Size category of the outlet (Small, Medium, High)
+
 Outlet Type	----------Type of store (Supermarket Type1/2, etc.)
 
 
